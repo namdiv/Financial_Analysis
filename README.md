@@ -1,4 +1,4 @@
-# Análisis Financiero - S%P500
+# Análisis Financiero - S&P500
 
 ## Contexto
 La empresa tomó la decisión de invertir parte de sus ganancias del año y va a tomar en cuenta el índice del SP500.
